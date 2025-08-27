@@ -1,0 +1,7 @@
+27.8.2025 
+-----------------------------
+-Ruby Exercies
+-Standard I/O
+-Arrays
+-Loops with Arrays
+-String Conversion
