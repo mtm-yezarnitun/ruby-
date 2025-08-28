@@ -1,9 +1,9 @@
 require 'date'
 
 print "Enter Your BirthDate : (dd/mm/YYYY) "
-input = gets.chomp
+bdate = gets.chomp
 
-bd = Date.strptime(input, "%d/%m/%Y")
+bd = Date.strptime(bdate, "%d/%m/%Y")
 age = Time.now.year - bd.year
 
 if age <= 18
